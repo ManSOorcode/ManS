@@ -10,7 +10,9 @@
 
 <p align="left">
 <a target="_blank"  href="https://www.linkedin.com/in/mansoor-k-890311116/"><img src="https://img.shields.io/badge/-@ManSOorcode-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mansoor-k-890311116/" alt="LinkedIn Badge"></a>
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=ManSOorcode.ManSOorcode" alt="Vistor Badge"></a>
+<a target="_blank">
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ManSOorcode.ManSOorcode" alt="Vistor Badge"> -->
+  <img src="https://page-views.glitch.me/badge?page_id=ManSOorcode" alt="visitor badge"/></a>
 </p>
 
 
