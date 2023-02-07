@@ -17,13 +17,15 @@
 
 
 
-- 🌗 Checkout my <a target="_blank"  href="https://10-react-airbnb-clone.vercel.app/">Airbnb website clone</a> which develope by tech:`Nextjs`, `JavaScript`, `TailwindCss`, `Leaflet`
+- 🌗 Checkout my <a target="_blank"  href="https://10-react-airbnb-clone.vercel.app/">Airbnb website clone</a> which develope by tech:  `Nextjs`,  `JavaScript`,  `TailwindCss`,  `Leaflet`
 
 - 👨‍💻 Most of my projects are available on `ManSOorCode` <a target="_blank"  href="https://github.com/ManSOorcode">Github</a>
 
 - 💬 Ping me about <strong>Web Development, </strong>Lets grow together
 
 <h2>🚀 Technology [ ]</h2>
+
+
 
 
 <p>
@@ -35,11 +37,24 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <br />
 
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ManSOorcode&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details> -->
+
 <p align="center">
 <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&theme=nord" alt="ManSOorcode" />
 </p>
+
+
+  
+
 
