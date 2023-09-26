@@ -4,7 +4,7 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
 
 
-<p> 🔭  I'm a Frontend Developer  based in Mumbai.</p>
+<p> 😶‍🌫️  I'm a Frontend Developer  based in Mumbai.</p>
 
 <img align="right" alt="GIF" height="250px" width="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
