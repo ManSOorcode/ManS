@@ -10,9 +10,15 @@
 
 <p align="left">
 <a target="_blank"  href="https://www.linkedin.com/in/mansoor-k-890311116/"><img src="https://img.shields.io/badge/-@ManSOorcode-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mansoor-k-890311116/" alt="LinkedIn Badge"></a>
-<a target="_blank">
+<!--<a target="_blank">--->
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ManSOorcode.ManSOorcode" alt="Vistor Badge"> -->
 <!--   <img src="https://page-views.glitch.me/badge?page_id=ManSOorcode" alt="visitor badge"/></a> -->
+  <img src="https://komarev.com/ghpvc/?username=ManSOorcode&style=flat">
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/ManSOorcode/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=ManSOorcode)
 </p>
 
 
