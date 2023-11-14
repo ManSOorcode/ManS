@@ -5,12 +5,12 @@
           <a href="https://www.linkedin.com/in/mansoor-khan-890311116/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-<!--           <a href="your-youtube-URL">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+          <a href="your-youtube-URL">
+            <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
           </a>
-          <a href="your-twitter-URL">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-          </a> -->
+          <a href="https://twitter.com/visibleCoder">
+            <img src="https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+          </a>
       </div>
    <img src="https://komarev.com/ghpvc/?username=ManSOorcode&style=flat">
 
@@ -20,6 +20,10 @@
 
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/></h1>
 <p> 😶‍🌫️  I'm a Frontend Developer  based in Mumbai.</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <img align="right" alt="GIF" height="250px" width="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
@@ -69,8 +73,14 @@
 </details> -->
 
 <p align="center">
-<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&theme=nord" alt="ManSOorcode" />
+<!-- <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&theme=nord" alt="ManSOorcode" /> -->
+
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&layout=compact&theme=vision-friendly-dark" alt="ManSOorcode-top-langs" />
+
 </p>
+
+<!---<img   src="http://github-readme-streak-stats.herokuapp.com?user=ManSOorcode&count_private=true&theme=dark&background=000000" alt="ManSOorcode" />-->
 
 
   
