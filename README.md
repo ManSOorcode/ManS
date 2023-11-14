@@ -1,9 +1,24 @@
 
+<div id="header" align="center">
+   <img src="https://github.com/ManSOorcode/ManSOorcode/assets/96908591/4f5cdb8e-a056-4d98-9cec-dd46e2a84ac6.gif" width="400"/>
+     <div id="badges">
+          <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+<!--           <a href="your-youtube-URL">
+            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+          </a>
+          <a href="your-twitter-URL">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+          </a> -->
+      </div>
+   <img src="https://komarev.com/ghpvc/?username=ManSOorcode&style=flat">
+
+</div>
 
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
 
-
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/></h1>
 <p> 😶‍🌫️  I'm a Frontend Developer  based in Mumbai.</p>
 
 <img align="right" alt="GIF" height="250px" width="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
@@ -13,12 +28,9 @@
 <!--<a target="_blank">--->
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ManSOorcode.ManSOorcode" alt="Vistor Badge"> -->
 <!--   <img src="https://page-views.glitch.me/badge?page_id=ManSOorcode" alt="visitor badge"/></a> -->
-  <img src="https://komarev.com/ghpvc/?username=ManSOorcode&style=flat">
+  
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/ManSOorcode/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=ManSOorcode)
 </p>
 
 
