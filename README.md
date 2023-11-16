@@ -1,11 +1,10 @@
-
 <div id="header" align="center">
-   <img src="https://github.com/ManSOorcode/ManSOorcode/assets/96908591/4f5cdb8e-a056-4d98-9cec-dd46e2a84ac6.gif" width="400"/>
+ <img src="https://i.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.webp" height="200"  />
      <div id="badges">
           <a href="https://www.linkedin.com/in/mansoor-khan-890311116/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="your-youtube-URL">
+          <a href="mailto:mansoor4tech@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
           </a>
           <a href="https://twitter.com/visibleCoder">
@@ -16,71 +15,71 @@
 
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Amaranth&pause=1000&weight=700&color=30F7DA&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mansoor+Khan!;"/>
+</h1>
 
+<h2 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Amaranth&pause=2000&color=0EF7ED&random=false&width=435&lines=%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F+I'm+a+Frontend+Developer++based+in+Mumbai!" /></h2>
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/></h1>
-<p> 😶‍🌫️  I'm a Frontend Developer  based in Mumbai.</p>
+<br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img  align='right' src="https://github.com/ManSOorcode/ManSOorcode/assets/96908591/4f5cdb8e-a056-4d98-9cec-dd46e2a84ac6.gif" width="400"/>
+<div align="left">
+
+Let's dive into some cool projects:
+
+- 🚀 [Netflix Clone](https://webflix-pied.vercel.app/) - Crafted with `React`, `JavaScript`, 🔥 `Firebase`, and 🎥 `React-Youtube`.
+- 🏡 [Airbnb Clone](https://mansoor-airbnb-clone-i4v08nm2x-mansoorcode.vercel.app/) - Built using 🚀 `Next.js`, 🎨 `TailwindCss`, and 🗺️ `Leaflet`.
+
+Discover more on [GitHub](https://github.com/YourGitHubUsername).
+
+- 🚀 Currently diving into **JavaScript** and **React** .
+
+- 💵 Ready for new **Web Dev projects**. Let's bring your ideas to life!
+
+- 💡 Questions about **HTML**, **CSS**, **JavaScript**, or **React**? Ask me!
+
+- 📫 Reach me at [Gmail](mansoor4tech@gmail.com). Let's build something amazing!
+
+- ⚡ Fun fact I love gaming
+
 </div>
 
-<img align="right" alt="GIF" height="250px" width="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
-<p align="left">
-<!-- <a target="_blank"  href="https://www.linkedin.com/in/mansoor-k-890311116/"><img src="https://img.shields.io/badge/-@ManSOorcode-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mansoor-k-890311116/" alt="LinkedIn Badge"></a> -->
-<!--<a target="_blank">--->
-<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=ManSOorcode.ManSOorcode" alt="Vistor Badge"> -->
-<!--   <img src="https://page-views.glitch.me/badge?page_id=ManSOorcode" alt="visitor badge"/></a> -->
+
+<br/>
+<br/>
+
+<h2 align="center" >👨‍💻 All Technology</h2>
+<br/>
+
+| 📚 Frameworks and Libraries | 💻 Languages & Frontend dev | 🎨 CSS Frameworks | 🛠️ Tools |
+|--------------------------|-----------|----------------|-------|
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![React YouTube](https://skillicons.dev/icons?i=react-youtube) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
+
+<br/>
+<br/>
+
+
+<!--<img align=center width=390 src="https://streak-stats.demolab.com/?user=ManSOorcode&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ManSOorcode&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&theme=react&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&layout=compact&theme=vision-friendly-dark" alt="ManSOorcode-top-langs" />-->
+
+
+
+<h2 align="center"> 🗿 GitHub Stats </h2>
+<br/>
+<p align="center"><img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorcode&count_private=true&show_icons=true&locale=en&layout=compact&theme=react" alt="mansoorcode" /></p>
+
+
+
   
 
 
-</p>
 
 
 
-- 🌐 Checkout my <a target="_blank"  href="https://mansoor-airbnb-clone-i4v08nm2x-mansoorcode.vercel.app/">Airbnb website clone</a> which develope by tech:  `Nextjs`,  `JavaScript`,  `TailwindCss`,  `Leaflet`
-
-- 👨‍💻 Most of my projects are available on `ManSOorCode` <a target="_blank"  href="https://github.com/ManSOorcode">Github</a>
-
-- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
-
-<h2>🚀 Technology [ ]</h2>
-
-
-
-
-<p>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
-<br />
-
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ManSOorcode&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details> -->
-
-<p align="center">
-<!-- <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&theme=nord" alt="ManSOorcode" /> -->
-
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManSOorcode&layout=compact&theme=vision-friendly-dark" alt="ManSOorcode-top-langs" />
-
-</p>
-
-<!---<img   src="http://github-readme-streak-stats.herokuapp.com?user=ManSOorcode&count_private=true&theme=dark&background=000000" alt="ManSOorcode" />-->
 
 
   
