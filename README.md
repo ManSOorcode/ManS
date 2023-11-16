@@ -32,7 +32,7 @@
 Let's dive into some cool projects:
 
 - 🚀 [Netflix Clone](https://webflix-pied.vercel.app/) - Crafted with `React`, `JavaScript`, 🔥 `Firebase`, and 🎥 `React-Youtube`.
-- 🏡 [Airbnb Clone](https://mansoor-airbnb-clone-i4v08nm2x-mansoorcode.vercel.app/) - Built using 🚀 `Next.js`, 🎨 `TailwindCss`, and 🗺️ `Leaflet`.
+- 🏡 [Airbnb Clone](https://travelnest-liard.vercel.app/) - Built using 🚀 `Next.js`, 🎨 `TailwindCss`, and 🗺️ `Leaflet`.
 
 Discover more on [GitHub](https://github.com/YourGitHubUsername).
 
