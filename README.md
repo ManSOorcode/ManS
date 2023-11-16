@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
  <img src="https://i.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.webp" height="200"  />
-
      <div id="badges">
           <a href="https://www.linkedin.com/in/mansoor-khan-890311116/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -58,8 +57,7 @@ Discover more on [GitHub](https://github.com/YourGitHubUsername).
 <br/>
 
 | 📚 Frameworks and Libraries | 💻 Languages & Frontend dev | 🎨 CSS Frameworks | 🛠️ Tools |
-
-|--------------------------|-----------|----------------|-------|
+|-----------------------------|------------------------------|--------------------|----------|
 | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![React YouTube](https://skillicons.dev/icons?i=react-youtube) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
 
 <br/>
