@@ -46,7 +46,10 @@ Discover more on [GitHub](https://github.com/YourGitHubUsername).
 
 - ⚡ Fun fact I love gaming
 </div>
-
+<div align="center">
+<img  align='center' src="https://github.com/user-attachments/assets/0b39cb32-c707-4797-8823-ed2eac41c603" width="800"/>
+<!-- "generate image of my work life base on what you know about me" this qoute will give you image about what it knows-->
+</div>
 
 
 
