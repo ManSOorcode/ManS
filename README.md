@@ -3,13 +3,13 @@
  <img src="https://i.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.webp" height="200"  />
      <div id="badges">
           <a href="https://www.linkedin.com/in/mansoor-khan-890311116/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
           </a>
           <a href="mailto:mansoor4tech@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
           </a>
           <a href="https://twitter.com/visibleCoder">
-            <img src="https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+            <img src="https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
           </a>
       </div>
    <img src="https://komarev.com/ghpvc/?username=ManSOorcode&style=flat">
@@ -59,9 +59,10 @@ Discover more on [GitHub](https://github.com/YourGitHubUsername).
 <h2 align="center" >👨‍💻 All Technology</h2>
 <br/>
 
-| 📚 Frameworks and Libraries | 💻 Languages & Frontend dev | 🎨 CSS Frameworks | 🛠️ Tools |
-|-----------------------------|------------------------------|--------------------|----------|
-| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![React YouTube](https://skillicons.dev/icons?i=react-youtube) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
+
+| 📚 Frameworks and Libraries | 💻 Languages & Frontend dev | 🧑‍💻 Backend dev | 🎨 CSS Frameworks | 🛠️ Tools |
+|-----------------------------|------------------------------|-----------------|--------------------|----------|
+| ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![React YouTube](https://skillicons.dev/icons?i=react-youtube) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Postman](https://skillicons.dev/icons?i=postman) ![Npm](https://skillicons.dev/icons?i=npm) ![Mongodb](https://skillicons.dev/icons?i=mongodb) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) | ![VSCode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
 
 <br/>
 <br/>
